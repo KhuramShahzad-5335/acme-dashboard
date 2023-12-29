@@ -5,7 +5,7 @@ export const allura = Oxygen({
     weight: "300"
 });
 
-export const secoundary = Lusitana({
+export const lusitana = Lusitana({
     subsets: ["latin"],
     weight: "400",
 });
